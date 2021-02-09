@@ -15,13 +15,14 @@ As a 3rd party independent contractor, we have been asked by various companies s
 The Data
 The dataset used in this project is available on data.world here. It is called Brands and Product Emotions and it contains a little over 9000 rows of tweets. Each tweet has a manually encoded emotion paired with it (positive, negative, or no emotion).
 
+## EDA
+![Screenshot](word_cloud.png)
+![Screenshot](token_distribution.png)
 
-## Final Modeling
+##  Modeling
 ![Screenshot](model_1.png)
 ![Screenshot](model_2.png)
 ![Screenshot](final_model.png)
-![Screenshot](word_cloud.png)
-![Screenshot](token_distribution.png)
 
 ## Conclusion
 What we have seen thus far is as follows:
